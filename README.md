@@ -54,7 +54,4 @@ The repository contains Python scripts, weekly project reports, and visualizatio
 3. Obtain the dataset and place it in the project folder.
 4. Run the relevant Python scripts in the order required by their data dependencies.
 
-## Note
-
-The reported results are based on the dataset and analysis performed in this project. Route optimization results represent the evaluated sample route.
 
