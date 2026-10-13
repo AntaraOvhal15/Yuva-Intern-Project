@@ -12,6 +12,18 @@ This project analyzes logistics delivery performance using Python and the DataCo
 * Apply clustering to identify delivery risk patterns.
 * Compare route optimization methods and evaluate distance reduction.
 
+## Dataset
+
+This project uses the **DataCo Smart Supply Chain for Big Data Analysis** dataset from Kaggle.
+
+* **Dataset Source:** [Kaggle – DataCo Smart Supply Chain Dataset](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis)
+* **Original File:** `DataCoSupplyChainDataset.csv`
+* **Total Records:** 180,519
+* **Original Columns:** 53
+
+The dataset contains order details, customer information, product sales, shipping methods, delivery status, and profit data. It is used to analyze delivery performance, identify late-delivery risks, build a regression model, perform clustering, and evaluate route optimization.
+
+
 ## Weekly Progress
 
 ### Week 1: Strategic Planning and Data Exploration
