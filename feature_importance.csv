@@ -1,0 +1,87 @@
+Feature,Importance
+num__Days for shipment (scheduled),0.8673080767829984
+cat__Shipping Mode_First Class,0.03235351483394342
+num__Order Item Discount,0.029554473790958217
+cat__Shipping Mode_Same Day,0.026432660943767842
+num__Order Item Quantity,0.007242374526294142
+num__Product Price,0.006626477217224007
+cat__Shipping Mode_Second Class,0.0019739030863670307
+cat__Shipping Mode_Standard Class,0.0019545381532016536
+cat__Category Name_Cardio Equipment,0.0009472413490946472
+cat__Category Name_Women's Apparel,0.0008832471414521273
+cat__Category Name_Indoor/Outdoor Games,0.0007875207958722522
+cat__Category Name_Cleats,0.0007804645414138716
+cat__Order Region_Eastern Asia,0.0006937126206607574
+cat__Category Name_Electronics,0.0006778578156071807
+cat__Order Region_South America,0.0006771188374215109
+cat__Category Name_Shop By Sport,0.0006608875943825787
+cat__Order Region_Southeast Asia,0.000636273822291082
+cat__Order Region_South Asia,0.0006356606952901751
+cat__Order Region_Oceania,0.0006289676170070399
+cat__Order Region_Northern Europe,0.0006183734283939247
+cat__Order Region_Western Europe,0.000617234178191998
+cat__Order Region_Central America,0.0006047655654170011
+cat__Category Name_Girls' Apparel,0.0005645416052983247
+cat__Order Region_Southern Europe,0.000542414307959834
+cat__Order Region_Caribbean,0.0005402276754965572
+cat__Order Region_West Asia,0.0005337935230191135
+cat__Order Region_North Africa,0.000519666533394615
+cat__Order Region_Eastern Europe,0.0005072207385762156
+cat__Category Name_Water Sports,0.0005003773432835121
+cat__Category Name_Camping & Hiking,0.0004978359799839309
+cat__Order Region_US Center ,0.0004943989484238506
+cat__Order Region_West of USA ,0.0004914051552200564
+cat__Order Region_West Africa,0.00048248412971883077
+cat__Order Region_South of  USA ,0.0004505142983092428
+cat__Market_LATAM,0.000427200067421955
+cat__Market_Pacific Asia,0.00041369042705951544
+cat__Order Region_East of USA,0.0004074042365120058
+cat__Market_Europe,0.00040283492618688616
+cat__Category Name_Golf Gloves,0.00040207445746838694
+cat__Category Name_Accessories,0.0004019994147995097
+cat__Order Region_Southern Africa,0.0004013535120188715
+cat__Category Name_Men's Footwear,0.0004011493573543576
+cat__Order Region_East Africa,0.00039598398662450235
+cat__Market_USCA,0.00038266393915187844
+cat__Category Name_Trade-In,0.0003797427037308606
+cat__Market_Africa,0.0003496282510687976
+cat__Category Name_Fishing,0.00033061679201524104
+cat__Order Region_Central Africa,0.00031167439614460964
+cat__Category Name_Baseball & Softball,0.0003036142460155458
+cat__Category Name_Golf Balls,0.0002984069142189759
+cat__Category Name_Hockey,0.00029498485639832837
+cat__Category Name_Hunting & Shooting,0.00026125301672082267
+cat__Category Name_Golf Shoes,0.00026031410328986444
+cat__Order Region_Canada,0.00025192736243173294
+cat__Category Name_Golf Apparel,0.00024153179641239205
+cat__Category Name_Lacrosse,0.00021559204249696967
+cat__Category Name_Fitness Accessories,0.00020715735655419608
+cat__Category Name_Boxing & MMA,0.000205527328843933
+cat__Order Region_Central Asia,0.0002052630702611418
+cat__Category Name_Tennis & Racquet,0.00018430630556342747
+cat__Category Name_Kids' Golf Clubs,0.00018246096507955497
+cat__Category Name_Women's Golf Clubs,0.00017286611908406223
+cat__Category Name_Men's Golf Clubs,0.00016107136858536976
+cat__Category Name_Consumer Electronics,0.00013548996381407646
+cat__Category Name_Soccer,0.00013490100832248958
+cat__Category Name_Crafts,0.00013161265938000638
+cat__Category Name_Children's Clothing,0.00011296676760287964
+cat__Category Name_Strength Training,0.00010831632997646066
+cat__Category Name_Basketball,0.00010699682494452166
+cat__Category Name_DVDs,9.202075757583466e-05
+cat__Category Name_Books ,8.800216729157541e-05
+cat__Category Name_As Seen on  TV!,8.685521011027685e-05
+cat__Category Name_Cameras ,8.266653391485181e-05
+cat__Category Name_Sporting Goods,6.969049118754804e-05
+cat__Category Name_Women's Clothing,6.052617594291369e-05
+cat__Category Name_Golf Bags & Carts,5.8730718144314444e-05
+cat__Category Name_Garden,5.858719514519964e-05
+cat__Category Name_Music,5.6039751971463305e-05
+cat__Category Name_Health and Beauty,5.5988411183295407e-05
+cat__Category Name_CDs ,5.364682012412185e-05
+cat__Category Name_Baby ,4.9090876874370484e-05
+cat__Category Name_Computers,4.4730776149388426e-05
+cat__Category Name_Pet Supplies,3.963084362528601e-05
+cat__Category Name_Men's Clothing,3.8522780893079415e-05
+cat__Category Name_Toys,3.5038549389328544e-05
+cat__Category Name_Video Games,2.5429490988057652e-05
