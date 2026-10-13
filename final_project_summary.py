@@ -1,0 +1,30 @@
+print("===== LOGISTICS PROJECT SUMMARY =====")
+
+print("\n1. DELIVERY PERFORMANCE")
+print("On-Time Delivery Rate: 45.17%")
+print("Late Delivery Rate: 54.83%")
+print("Average Actual Shipping: 3.50 days")
+print("Average Shipping Delay: 0.57 days")
+
+print("\n2. REGRESSION MODEL")
+print("Model: Random Forest Regressor")
+print("MAE: 0.989 days")
+print("RMSE: 1.269 days")
+print("R2 Score: 0.389")
+
+print("\n3. CLUSTERING")
+print("Algorithm: K-Means")
+print("Number of Clusters: 3")
+print("Highest Late-Risk Cluster: Cluster 1 (72.71%)")
+
+print("\n4. ROUTE OPTIMIZATION")
+print("Baseline Distance: 28.27 km")
+print("Nearest Neighbor Distance: 26.47 km")
+print("Optimal Distance: 24.73 km")
+print("Distance Reduction: 12.52%")
+
+print("\n5. CONCLUSION")
+print("Delivery delays are a major logistics challenge.")
+print("Regression helps estimate actual shipping time.")
+print("Clustering identifies groups with different delivery risks.")
+print("Route optimization reduces distance in the sample experiment.")
